@@ -1,0 +1,19 @@
+{
+  "name": "toolbox",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "loidsemus",
+  "license": "ISC",
+  "dependencies": {
+    "@octokit/rest": "^18.5.2",
+    "axios": "^0.21.1",
+    "chalk": "^4.1.0",
+    "conf": "^9.0.2",
+    "inquirer": "^8.0.0",
+    "yargs": "^16.2.0"
+  }
+}
